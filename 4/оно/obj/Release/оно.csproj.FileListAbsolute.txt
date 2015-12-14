@@ -1,0 +1,10 @@
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\bin\Release\оно.exe.config
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\bin\Release\readme.txt
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\bin\Release\оно.exe
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\bin\Release\оно.pdb
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\obj\Release\оно.Form1.resources
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\obj\Release\оно.Properties.Resources.resources
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\obj\Release\оно.csproj.GenerateResource.Cache
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\obj\Release\оно.exe
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\obj\Release\оно.pdb
+C:\Users\isaik\OneDrive\Documents\Visual Studio 2015\Projects\4\оно\obj\Release\оно.csprojResolveAssemblyReference.cache
